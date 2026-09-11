@@ -19,6 +19,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em de
 - Análise e Modelagem de Sistemas
 - Versionamento de código com Git e GitHub
 
+## Tecnologias e ferramentas em aprendizado
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Tecnologias e ferramentas em aprendizado" />
+</p>
+
 ## Projetos
 
 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha formação em tecnologia.
