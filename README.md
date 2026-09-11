@@ -27,9 +27,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em de
 
 ## Projetos
 
-Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha formação em tecnologia.
+### 🏠 Regina Artesanatos
 
-Estou trabalhando na organização e publicação de novos projetos.
+Site responsivo desenvolvido para apresentar produtos artesanais e itens de decoração de forma moderna e organizada.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript
+
+🔗 [Visualizar repositório](https://github.com/thiago-salusto/regina-artesanatos)
+
+🌐 [Acessar site publicado](https://thiago-salusto.github.io/regina-artesanatos/)
 
 ## Objetivo profissional
 
